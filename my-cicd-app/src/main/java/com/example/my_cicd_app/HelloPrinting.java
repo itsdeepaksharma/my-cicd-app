@@ -4,6 +4,7 @@ public class HelloPrinting {
 
     void print(){
         System.out.println("Hello");
+
     }
 
 }

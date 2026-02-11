@@ -8,6 +8,11 @@ public class MyCicdAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyCicdAppApplication.class, args);
+
+        int a = 5 ;
+        int b=6;
+        int res = 0;
+
 	}
 
 }
